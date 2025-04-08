@@ -3,7 +3,7 @@
     "title": "Refurbished Laptop - Dell i5",
     "description": "High-performance refurbished Dell laptop with 8GB RAM and 256GB SSD.",
     "price": 23999,
-    "imageUrl": ["https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/product2.jpg"],
+    "imageUrl": ["https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/product2.jpg","https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/produce1.jpg"],
     "details": {
       "Processor": "Intel Core i5",
       "RAM": "8GB",
@@ -15,7 +15,7 @@
     "title": "HP Printer All-in-One",
     "description": "Reliable all-in-one printer with scanning and wireless printing.",
     "price": 4999,
-    "imageUrl": ["https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/produce1.jpg"],
+    "imageUrl": ["https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/produce1.jpg","https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/product2.jpg"],
     "details": {
       "Type": "Inkjet",
       "Connectivity": "Wi-Fi, USB",
