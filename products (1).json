@@ -33,8 +33,8 @@
     "price": 1404.64,
     "description": "This is a detailed description for Slim Laptop.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/slimlaptop1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/slimlaptop2.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -57,8 +57,8 @@
     "price": 844.41,
     "description": "This is a detailed description for Gaming Beast.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/gamingbeast1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/gamingbeast2.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -77,8 +77,8 @@
     "price": 1706.48,
     "description": "This is a detailed description for Office Pro.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/officepro1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/officepro2.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -97,8 +97,7 @@
     "price": 836.24,
     "description": "This is a detailed description for Mini Tower.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/Minitower1.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -117,7 +116,8 @@
     "price": 1596.08,
     "description": "This is a detailed description for Portable Notebook.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/protableNoteBook1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/protableNoteBook2.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -140,8 +140,8 @@
     "price": 257.08,
     "description": "This is a detailed description for High-end Workstation.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/Workstation2.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/Workstation1.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -168,7 +168,8 @@
     "price": 259.07,
     "description": "This is a detailed description for Budget Laptop.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/budgetlaptop1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/budgetlaptop2.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
