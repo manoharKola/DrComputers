@@ -192,8 +192,8 @@
     "price": 230.5,
     "description": "This is a detailed description for All-in-One PC.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/allinonepc2.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/allinonepc1.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -212,7 +212,7 @@
     "price": 883.65,
     "description": "This is a detailed description for Performance Laptop.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/PerformanceLaptop.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -235,7 +235,7 @@
     "price": 574.96,
     "description": "This is a detailed description for Essential Desktop.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/EssentialDesktop.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -262,9 +262,9 @@
     "price": 1110.14,
     "description": "This is a detailed description for Gaming Laptop.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/GamingLaptop2.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/GamingLaptop3.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/GamingLaptop1.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -283,8 +283,8 @@
     "price": 239.42,
     "description": "This is a detailed description for Chromebook X.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/chromebook1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/chromebook2.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -307,7 +307,7 @@
     "price": 920.96,
     "description": "This is a detailed description for USB Hub.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg"
+      "usbhub.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -330,7 +330,7 @@
     "price": 1409.34,
     "description": "This is a detailed description for Wireless Mouse.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg"
+      "WirelessMouse.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -349,8 +349,8 @@
     "price": 344.0,
     "description": "This is a detailed description for Keyboard Combo.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg"
+      "KeyboardCombo.jpg",
+      "KeyboardCombo.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -369,8 +369,8 @@
     "price": 1641.31,
     "description": "This is a detailed description for Laptop Stand.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg"
+      "LaptopStand.jpg",
+      "LaptopStand1.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
