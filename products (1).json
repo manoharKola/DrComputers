@@ -4,9 +4,9 @@
     "price": 1594.49,
     "description": "This is a detailed description for Ultra PC.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg"
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/ultrapc.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/ultrapc1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/ultrapc2.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
