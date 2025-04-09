@@ -4,9 +4,9 @@
     "price": 1594.49,
     "description": "This is a detailed description for Ultra PC.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/ultrapc.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/ultrapc1.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/ultrapc2.jpg"
+      "ultrapc.jpg",
+      "ultrapc1.jpg",
+      "ultrapc2.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -33,8 +33,8 @@
     "price": 1404.64,
     "description": "This is a detailed description for Slim Laptop.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/slimlaptop1.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/slimlaptop2.jpg"
+      "slimlaptop1.jpg",
+      "slimlaptop2.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -57,8 +57,8 @@
     "price": 844.41,
     "description": "This is a detailed description for Gaming Beast.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/gamingbeast1.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/gamingbeast2.jpg"
+      "gamingbeast1.jpg",
+      "gamingbeast2.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -77,8 +77,8 @@
     "price": 1706.48,
     "description": "This is a detailed description for Office Pro.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/officepro1.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/officepro2.jpg"
+      "officepro1.jpg",
+      "officepro2.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -97,7 +97,7 @@
     "price": 836.24,
     "description": "This is a detailed description for Mini Tower.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/Minitower1.jpg"
+      "Minitower1.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -116,8 +116,8 @@
     "price": 1596.08,
     "description": "This is a detailed description for Portable Notebook.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/protableNoteBook1.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/protableNoteBook2.jpg"
+      "protableNoteBook1.jpg",
+      "protableNoteBook2.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -140,8 +140,8 @@
     "price": 257.08,
     "description": "This is a detailed description for High-end Workstation.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/Workstation2.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/Workstation1.jpg"
+      "Workstation2.jpg",
+      "Workstation1.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -168,8 +168,8 @@
     "price": 259.07,
     "description": "This is a detailed description for Budget Laptop.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/budgetlaptop1.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/budgetlaptop2.jpg"
+      "budgetlaptop1.jpg",
+      "budgetlaptop2.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -192,8 +192,8 @@
     "price": 230.5,
     "description": "This is a detailed description for All-in-One PC.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/allinonepc2.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/allinonepc1.jpg"
+      "allinonepc2.jpg",
+      "allinonepc1.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -212,7 +212,7 @@
     "price": 883.65,
     "description": "This is a detailed description for Performance Laptop.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/PerformanceLaptop.jpg"
+      "PerformanceLaptop.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -235,7 +235,7 @@
     "price": 574.96,
     "description": "This is a detailed description for Essential Desktop.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/EssentialDesktop.jpg"
+      "EssentialDesktop.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -262,9 +262,9 @@
     "price": 1110.14,
     "description": "This is a detailed description for Gaming Laptop.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/GamingLaptop2.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/GamingLaptop3.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/GamingLaptop1.jpg"
+      "GamingLaptop2.jpg",
+      "GamingLaptop3.jpg",
+      "GamingLaptop1.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -283,8 +283,8 @@
     "price": 239.42,
     "description": "This is a detailed description for Chromebook X.",
     "images": [
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/chromebook1.jpg",
-      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/chromebook2.jpg"
+      "chromebook1.jpg",
+      "chromebook2.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -389,8 +389,8 @@
     "price": 1124.23,
     "description": "This is a detailed description for Cooling Pad.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg"
+      "CoolingPad.jpg",
+      "CoolingPad1.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -413,9 +413,9 @@
     "price": 1514.09,
     "description": "This is a detailed description for HD Monitor.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg"
+      "HDMonitor1.jpg",
+      "HDMonitor2.jpg",
+      "HDMonitor3.jpg"
     ],
     "category": "Laptop",
     "dynamic_fields": [
@@ -442,8 +442,8 @@
     "price": 1984.1,
     "description": "This is a detailed description for Webcam Pro.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg"
+      "WebcamPro.jpg",
+      "WebcamPro1.jpg"
     ],
     "category": "PC",
     "dynamic_fields": [
@@ -466,8 +466,8 @@
     "price": 1834.69,
     "description": "This is a detailed description for External HDD.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg"
+      "ExternalHDD.jpg",
+      "ExternalHDD1.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
@@ -494,8 +494,8 @@
     "price": 336.91,
     "description": "This is a detailed description for SSD Drive.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg"
+      "SSDDrive1.jpg",
+      "SSDDrive2.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
@@ -518,8 +518,8 @@
     "price": 1067.93,
     "description": "This is a detailed description for Laptop Bag.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg"
+      "LaptopBag1.jpg",
+      "LaptopBag2.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
@@ -546,9 +546,9 @@
     "price": 342.72,
     "description": "This is a detailed description for Stylus Pen.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg"
+      "StylusPen1.jpg",
+      "StylusPen3.jpg",
+      "StylusPen2.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
@@ -571,7 +571,7 @@
     "price": 577.64,
     "description": "This is a detailed description for Bluetooth Speaker.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg"
+      "Speaker.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
@@ -594,9 +594,9 @@
     "price": 1743.04,
     "description": "This is a detailed description for Noise Cancelling Headset.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg"
+      "NoiseCancellingHeadset1.jpg",
+      "NoiseCancellingHeadset2.jpg",
+      "NoiseCancellingHeadset3.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
@@ -623,7 +623,7 @@
     "price": 638.31,
     "description": "This is a detailed description for 4K Monitor.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg"
+      "4KMonitor.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
@@ -642,7 +642,7 @@
     "price": 802.2,
     "description": "This is a detailed description for Graphics Tablet.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg"
+      "GraphicsTablet.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
@@ -661,8 +661,8 @@
     "price": 809.08,
     "description": "This is a detailed description for Power Bank.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg"
+      "PowerBank1.jpg",
+      "PowerBank2.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
@@ -689,9 +689,9 @@
     "price": 397.67,
     "description": "This is a detailed description for Smart Dongle.",
     "images": [
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg",
-      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg"
+      "SmartDongle.jpg",
+      "SmartDongle1.jpg",
+      "SmartDongle2.jpg"
     ],
     "category": "Accessory",
     "dynamic_fields": [
