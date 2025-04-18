@@ -1,0 +1,716 @@
+[
+  {
+    "title": "Ultra PC",
+    "price": 1594.49,
+    "description": "This is a detailed description for Ultra PC.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/ultrapc.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/ultrapc1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/ultrapc2.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "Screen Size",
+        "value": "15.6 inch"
+      },
+      {
+        "name": "Graphics",
+        "value": "NVIDIA GTX 1650"
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh"
+      },
+      {
+        "name": "Color",
+        "value": "Silver"
+      }
+    ]
+  },
+  {
+    "title": "Slim Laptop",
+    "price": 1404.64,
+    "description": "This is a detailed description for Slim Laptop.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/slimlaptop1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/slimlaptop2.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "RAM",
+        "value": "8GB"
+      },
+      {
+        "name": "Graphics",
+        "value": "NVIDIA GTX 1650"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      }
+    ]
+  },
+  {
+    "title": "Gaming Beast",
+    "price": 844.41,
+    "description": "This is a detailed description for Gaming Beast.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/gamingbeast1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/gamingbeast2.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "Battery",
+        "value": "5000mAh"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      }
+    ]
+  },
+  {
+    "title": "Office Pro",
+    "price": 1706.48,
+    "description": "This is a detailed description for Office Pro.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/officepro1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/officepro2.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "Connectivity",
+        "value": "WiFi, Bluetooth"
+      },
+      {
+        "name": "Color",
+        "value": "Silver"
+      }
+    ]
+  },
+  {
+    "title": "Mini Tower",
+    "price": 836.24,
+    "description": "This is a detailed description for Mini Tower.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/Minitower1.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i5"
+      }
+    ]
+  },
+  {
+    "title": "Portable Notebook",
+    "price": 1596.08,
+    "description": "This is a detailed description for Portable Notebook.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/protableNoteBook1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/protableNoteBook2.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "Graphics",
+        "value": "NVIDIA GTX 1650"
+      },
+      {
+        "name": "RAM",
+        "value": "8GB"
+      },
+      {
+        "name": "Storage",
+        "value": "512GB SSD"
+      }
+    ]
+  },
+  {
+    "title": "High-end Workstation",
+    "price": 257.08,
+    "description": "This is a detailed description for High-end Workstation.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/Workstation2.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/Workstation1.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "RAM",
+        "value": "8GB"
+      },
+      {
+        "name": "Connectivity",
+        "value": "WiFi, Bluetooth"
+      }
+    ]
+  },
+  {
+    "title": "Budget Laptop",
+    "price": 259.07,
+    "description": "This is a detailed description for Budget Laptop.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/budgetlaptop1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/budgetlaptop2.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "Screen Size",
+        "value": "15.6 inch"
+      },
+      {
+        "name": "RAM",
+        "value": "16GB"
+      },
+      {
+        "name": "Color",
+        "value": "Silver"
+      }
+    ]
+  },
+  {
+    "title": "All-in-One PC",
+    "price": 230.5,
+    "description": "This is a detailed description for All-in-One PC.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/allinonepc2.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/allinonepc1.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "Storage",
+        "value": "1TB HDD"
+      },
+      {
+        "name": "RAM",
+        "value": "8GB"
+      }
+    ]
+  },
+  {
+    "title": "Performance Laptop",
+    "price": 883.65,
+    "description": "This is a detailed description for Performance Laptop.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/PerformanceLaptop.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "Screen Size",
+        "value": "15.6 inch"
+      },
+      {
+        "name": "Storage",
+        "value": "512GB SSD"
+      },
+      {
+        "name": "Storage",
+        "value": "1TB HDD"
+      }
+    ]
+  },
+  {
+    "title": "Essential Desktop",
+    "price": 574.96,
+    "description": "This is a detailed description for Essential Desktop.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/EssentialDesktop.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "RAM",
+        "value": "8GB"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i5"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 inch"
+      }
+    ]
+  },
+  {
+    "title": "Gaming Laptop",
+    "price": 1110.14,
+    "description": "This is a detailed description for Gaming Laptop.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/GamingLaptop2.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/GamingLaptop3.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/GamingLaptop1.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      },
+      {
+        "name": "Storage",
+        "value": "512GB SSD"
+      }
+    ]
+  },
+  {
+    "title": "Chromebook X",
+    "price": 239.42,
+    "description": "This is a detailed description for Chromebook X.",
+    "images": [
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/chromebook1.jpg",
+      "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/chromebook2.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "Storage",
+        "value": "1TB HDD"
+      },
+      {
+        "name": "Connectivity",
+        "value": "WiFi, Bluetooth"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "title": "USB Hub",
+    "price": 920.96,
+    "description": "This is a detailed description for USB Hub.",
+    "images": [
+      "usbhub.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "RAM",
+        "value": "8GB"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 inch"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i5"
+      }
+    ]
+  },
+  {
+    "title": "Wireless Mouse",
+    "price": 1409.34,
+    "description": "This is a detailed description for Wireless Mouse.",
+    "images": [
+      "WirelessMouse.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "Screen Size",
+        "value": "15.6 inch"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i5"
+      }
+    ]
+  },
+  {
+    "title": "Keyboard Combo",
+    "price": 344.0,
+    "description": "This is a detailed description for Keyboard Combo.",
+    "images": [
+      "KeyboardCombo.jpg",
+      "KeyboardCombo.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "RAM",
+        "value": "8GB"
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh"
+      }
+    ]
+  },
+  {
+    "title": "Laptop Stand",
+    "price": 1641.31,
+    "description": "This is a detailed description for Laptop Stand.",
+    "images": [
+      "LaptopStand.jpg",
+      "LaptopStand1.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Color",
+        "value": "Silver"
+      }
+    ]
+  },
+  {
+    "title": "Cooling Pad",
+    "price": 1124.23,
+    "description": "This is a detailed description for Cooling Pad.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Storage",
+        "value": "1TB HDD"
+      }
+    ]
+  },
+  {
+    "title": "HD Monitor",
+    "price": 1514.09,
+    "description": "This is a detailed description for HD Monitor.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg"
+    ],
+    "category": "Laptop",
+    "dynamic_fields": [
+      {
+        "name": "Screen Size",
+        "value": "15.6 inch"
+      },
+      {
+        "name": "Storage",
+        "value": "512GB SSD"
+      },
+      {
+        "name": "Connectivity",
+        "value": "WiFi, Bluetooth"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      }
+    ]
+  },
+  {
+    "title": "Webcam Pro",
+    "price": 1984.1,
+    "description": "This is a detailed description for Webcam Pro.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg"
+    ],
+    "category": "PC",
+    "dynamic_fields": [
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "RAM",
+        "value": "16GB"
+      }
+    ]
+  },
+  {
+    "title": "External HDD",
+    "price": 1834.69,
+    "description": "This is a detailed description for External HDD.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "Storage",
+        "value": "1TB HDD"
+      },
+      {
+        "name": "Color",
+        "value": "Silver"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i5"
+      },
+      {
+        "name": "RAM",
+        "value": "8GB"
+      }
+    ]
+  },
+  {
+    "title": "SSD Drive",
+    "price": 336.91,
+    "description": "This is a detailed description for SSD Drive.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "Color",
+        "value": "Silver"
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      }
+    ]
+  },
+  {
+    "title": "Laptop Bag",
+    "price": 1067.93,
+    "description": "This is a detailed description for Laptop Bag.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Connectivity",
+        "value": "WiFi, Bluetooth"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i5"
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh"
+      }
+    ]
+  },
+  {
+    "title": "Stylus Pen",
+    "price": 342.72,
+    "description": "This is a detailed description for Stylus Pen.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "Color",
+        "value": "Silver"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i5"
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh"
+      }
+    ]
+  },
+  {
+    "title": "Bluetooth Speaker",
+    "price": 577.64,
+    "description": "This is a detailed description for Bluetooth Speaker.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "Graphics",
+        "value": "NVIDIA GTX 1650"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i5"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "title": "Noise Cancelling Headset",
+    "price": 1743.04,
+    "description": "This is a detailed description for Noise Cancelling Headset.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_1.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "Graphics",
+        "value": "NVIDIA GTX 1650"
+      },
+      {
+        "name": "Color",
+        "value": "Silver"
+      },
+      {
+        "name": "Storage",
+        "value": "1TB HDD"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      }
+    ]
+  },
+  {
+    "title": "4K Monitor",
+    "price": 638.31,
+    "description": "This is a detailed description for 4K Monitor.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_2.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "RAM",
+        "value": "8GB"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel i5"
+      }
+    ]
+  },
+  {
+    "title": "Graphics Tablet",
+    "price": 802.2,
+    "description": "This is a detailed description for Graphics Tablet.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_3.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "Connectivity",
+        "value": "WiFi, Bluetooth"
+      },
+      {
+        "name": "Battery",
+        "value": "5000mAh"
+      }
+    ]
+  },
+  {
+    "title": "Power Bank",
+    "price": 809.08,
+    "description": "This is a detailed description for Power Bank.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_4.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "Screen Size",
+        "value": "15.6 inch"
+      },
+      {
+        "name": "Storage",
+        "value": "1TB HDD"
+      },
+      {
+        "name": "RAM",
+        "value": "8GB"
+      },
+      {
+        "name": "Connectivity",
+        "value": "WiFi, Bluetooth"
+      }
+    ]
+  },
+  {
+    "title": "Smart Dongle",
+    "price": 397.67,
+    "description": "This is a detailed description for Smart Dongle.",
+    "images": [
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg",
+      "https://raw.githubusercontent.com/manoharKola/DrComputers/main/assets/images/sample_5.jpg"
+    ],
+    "category": "Accessory",
+    "dynamic_fields": [
+      {
+        "name": "Processor",
+        "value": "Intel i7"
+      },
+      {
+        "name": "Color",
+        "value": "Silver"
+      },
+      {
+        "name": "Connectivity",
+        "value": "WiFi, Bluetooth"
+      },
+      {
+        "name": "RAM",
+        "value": "16GB"
+      }
+    ]
+  }
+]
