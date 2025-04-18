@@ -209,7 +209,7 @@ class _ProductListPageState extends State<ProductListPage> {
                             isLoop: true,
                             children: product.images
                                 .map((img) => Image.network(
-                              "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/$img",
+                              "https://manoharkola.github.io/DrComputers/assets/assets/images/$img",
                               fit: BoxFit.cover,
                               width: double.infinity,
                               errorBuilder: (context, error, stackTrace) =>
@@ -337,10 +337,10 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
           .map((img) => GestureDetector(
         onTap: () => showFullImage(
           context,
-          "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/$img",
+          "https://manoharkola.github.io/DrComputers/assets/assets/images/$img",
         ),
         child: Image.network(
-          "https://i38utvd5exkamac5ywqnda.on.drv.tw/www.drcomputers.com/upload/$img",
+          "https://manoharkola.github.io/DrComputers/assets/assets/images/$img",
           fit: BoxFit.cover,
           width: double.infinity,
           errorBuilder: (context, error, stackTrace) =>
